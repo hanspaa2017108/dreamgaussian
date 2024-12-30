@@ -18,3 +18,4 @@ logs*
 videos*
 images*
 *.mp4
+diff-gaussian-rasterization/
